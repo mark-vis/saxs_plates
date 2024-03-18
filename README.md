@@ -1,6 +1,6 @@
 How to use the Jupyter notebook:
 * Install Python and Jupyter notebooks. We recommend to install it via the Anaconda environment. See: https://www.anaconda.com/download/ and https://www.askpython.com/python/examples/install-python-with-conda. 
-* To run the Jupyter notebook (e.g. the file datasetE72.ipynb), do the following:
+* To run the Jupyter notebook (e.g. the file AnalysisE72.ipynb), do the following:
 	* Open an Anaconda prompt
 	* Change locations to the folder where you saved the Jupyter notebook via the following command: cd <folder path>
 	* Run Jupyter notebook by typing: jupyter notebook
